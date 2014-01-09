@@ -10,7 +10,7 @@ $workdir = ".";
 $version = undef;
 $brace_level = 0;
 $in_flightstate_section = 0;
-$in_vessel_section = 0;
+# $in_vessel_section = 0;
 $vessel_name = undef;
 $vessel_number = 0;
 
